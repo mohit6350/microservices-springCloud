@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: IMDBAdmin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MohitK
+Implementation-Vendor-Id: com.quinnox.admin
+Build-Jdk: 1.8.0_201
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/IMDBAdmin
+Created-By: Maven Integration for Eclipse
+
